@@ -1,0 +1,402 @@
+[
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Signature Altius",
+    "builder": "Signature Avenues",
+    "price": 9498000,
+    "per_sqft": "4,999 / sq ft",
+    "area": "1900 ",
+    "status": "Under Construction",
+    "place": "Kollur"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Risinia Skyon",
+    "builder": "Risinia Builders",
+    "price": 9367000,
+    "per_sqft": "5,599 / sq ft",
+    "area": "1673 ",
+    "status": "Under Construction",
+    "place": "Bachupally"
+  },
+  {
+    "title": "2  BHK  Apartment",
+    "projectname": "Vasavi Metropolis",
+    "builder": "Vasavi Group",
+    "price": 6070000,
+    "per_sqft": "5,705 / sq ft",
+    "area": "1065 ",
+    "status": "Under Construction",
+    "place": "Uppal Kalan"
+  },
+  {
+    "title": "2  BHK  Apartment",
+    "projectname": "Aavasa Constructions Emerald",
+    "builder": "Aavasa Constructions",
+    "price": 8515000,
+    "per_sqft": "6,500 / sq ft",
+    "area": "1310 ",
+    "status": "Under Construction",
+    "place": "Saroor Nagar"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Primark De Stature",
+    "bPuilder": "Primark Developers",
+    "price": 9797000,
+    "per_sqft": "4,699 / sq ft",
+    "area": "2085 ",
+    "status": "Under Construction",
+    "place": "Kompally"
+  },
+  {
+    "title": "2  BHK  Apartment",
+    "projectname": "Srija Twin Towers",
+    "builder": "Srija Infra Developers Hyderabad",
+    "price": 5001000,
+    "per_sqft": "4,800 / sq ft",
+    "area": "1042 ",
+    "status": "Under Construction",
+    "place": "Dammaiguda"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Cybercity Oriana",
+    "builder": "Cyber City Oriana",
+    "price": 22000000,
+    "per_sqft": "9,909 / sq ft",
+    "area": "2220 ",
+    "status": "Under Construction",
+    "place": "Kukatpally"
+  },
+  {
+    "title": "2  BHK  Apartment",
+    "projectname": "Syamantaka Emerald Heights",
+    "builder": "Symantaka Infra",
+    "price": 6183000,
+    "per_sqft": "5,400 / sq ft",
+    "area": "1145 ",
+    "status": "Under Construction",
+    "place": "Bachupally"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Om Sree Brilliance",
+    "builder": "Om Sree Builders And Developers",
+    "price": 13400000,
+    "per_sqft": "6,100 / sq ft",
+    "area": "2200 ",
+    "status": "Under Construction",
+    "place": "Sainikpuri"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Primark De Stature",
+    "builder": "Primark Projects Pvt Ltd",
+    "price": 9797000,
+    "per_sqft": "4,699 / sq ft",
+    "area": "2085 ",
+    "status": "Under Construction",
+    "place": "Kompally"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Srinivasa Emerald Greens",
+    "builder": "Sunder Homes Hyderabad",
+    "price": 20900000,
+    "per_sqft": "5,500 / sq ft",
+    "area": "3810 ",
+    "status": "Under Construction",
+    "place": "Kompally"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Sumadhura The Olympus",
+    "builder": "Sumadhura Infracon Pvt Ltd",
+    "price": 13300000,
+    "per_sqft": "7,999 / sq ft",
+    "area": "1670 ",
+    "status": "Under Construction",
+    "place": "Nanakramguda"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Vazhraa Vazhraa Prathik",
+    "builder": "Vazhraa Nirmaan Pvt Ltd",
+    "price": 11500000,
+    "per_sqft": "6,300 / sq ft",
+    "area": "1835 ",
+    "status": "Under Construction",
+    "place": "Nizampet"
+  },
+  {
+    "title": "4  BHK  Apartment",
+    "projectname": "Mahaveer Crystal Garden",
+    "builder": "Mahaveer Group",
+    "price": 35200000,
+    "per_sqft": "7,500 / sq ft",
+    "area": "4706 ",
+    "status": "Under Construction",
+    "place": "Attapur"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Engineers Sri Tirumala Millennium Phase III",
+    "builder": "EAPL Group",
+    "price": 10900000,
+    "per_sqft": "4,999 / sq ft",
+    "area": "2187 ",
+    "status": "Under Construction",
+    "place": "Mallapur"
+  },
+  {
+    "title": "2  BHK  Apartment",
+    "projectname": "Beams 4 Blocks",
+    "builder": "Beams And Columns Builders Private Limited",
+    "price": 6941000,
+    "per_sqft": "5,299 / sq ft",
+    "area": "1310 ",
+    "status": "Under Construction",
+    "place": "Kompally"
+  },
+  {
+    "title": "4  BHK  Villa",
+    "projectname": "Radhey RADHEY RAAGA",
+    "builder": "Radhey Constructions India Pvt Ltd",
+    "price": 36800000,
+    "per_sqft": "9,800 / sq ft",
+    "area": "3756 ",
+    "status": "Under Construction",
+    "place": "Patighanpur"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Namishree BPS Twin Towers",
+    "builder": "Namishree Infrastructure And Project Pvt Ltd",
+    "price": 7569000,
+    "per_sqft": "5,800 / sq ft",
+    "area": "1305 ",
+    "status": "Under Construction",
+    "place": "Saidabad"
+  },
+  {
+    "title": "5  BHK  Villa",
+    "projectname": "Nest Bliss In The Woods",
+    "builder": "Nest Makers",
+    "price": 58200000,
+    "per_sqft": "9,700 / sq ft",
+    "area": "6000 ",
+    "status": "Under Construction",
+    "place": "Harshaguda"
+  },
+  {
+    "title": "2  BHK  Apartment",
+    "projectname": "GHR Callisto",
+    "builder": "GHR Infra",
+    "price": 6473000,
+    "per_sqft": "4,999 / sq ft",
+    "area": "1295 ",
+    "status": "Under Construction",
+    "place": "Kollur"
+  },
+  {
+    "title": "4  BHK  Villa",
+    "projectname": "RV Somwrita",
+    "builder": "R V Nirmaan Private Limited",
+    "price": 36200000,
+    "per_sqft": "12,400 / sq ft",
+    "area": "2925 ",
+    "status": "Ready to move",
+    "place": "Kismatpur"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Provident Kenworth",
+    "builder": "Provident Housing Limited",
+    "price": 9499000,
+    "per_sqft": "7,224 / sq ft",
+    "area": "1315 ",
+    "status": "Ready to move",
+    "place": "Rajendra Nagar"
+  },
+  {
+    "title": "4  BHK  Villa",
+    "projectname": "Krushi Madhava Nest",
+    "builder": "Krushi Infra Projects India PvtLtd",
+    "price": 16900000,
+    "per_sqft": "7,415 / sq ft",
+    "area": "2280 ",
+    "status": "Ready to move",
+    "place": "Patancheru"
+  },
+  {
+    "title": "4  BHK  Villa",
+    "projectname": "IRA Elevate Villas",
+    "builder": "Ira Reality",
+    "price": 73500000,
+    "per_sqft": "12,000 / sq ft",
+    "area": "6125 ",
+    "status": "Under Construction",
+    "place": "Mamidipally"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Merlion Galaxia",
+    "builder": "Merlion Builders",
+    "price": 10300000,
+    "per_sqft": "5,600 / sq ft",
+    "area": "1854 ",
+    "status": "Under Construction",
+    "place": "Nizampet"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Hivision Heights",
+    "builder": "Hivision Developer",
+    "price": 11399999,
+    "per_sqft": "5,999 / sq ft",
+    "area": "1901 ",
+    "status": "Under Construction",
+    "place": "Kompally"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Candeur Crescent",
+    "builder": "Candeur Developers And Builders",
+    "price": 19900000,
+    "per_sqft": "7,810 / sq ft",
+    "area": "2548 ",
+    "status": "Under Construction",
+    "place": "Serilingampally"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Anuhar Art Of Living",
+    "builder": "Anuhar Homes Pvt Ltd",
+    "price": 10100000,
+    "per_sqft": "6,200 / sq ft",
+    "area": "1636 ",
+    "status": "Ready to move",
+    "place": "Manikonda"
+  },
+  {
+    "title": "Residential Plot",
+    "projectname": "G Square Olympia",
+    "builder": "G square Housing",
+    "price": 6980000,
+    "per_sqft": "1,939 / sq ft",
+    "area": "3600 ",
+    "status": "New",
+    "place": "Shadnagar"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "My Home Sayuk",
+    "builder": "My Home Constructions Pvt Ltd",
+    "price": 15000000,
+    "per_sqft": "7,788 / sq ft",
+    "area": "1926 ",
+    "status": "Under Construction",
+    "place": "Tellapur"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Hallmark Skyrena",
+    "builder": "Hallmark Builders",
+    "price": 16000000,
+    "per_sqft": "7,099 / sq ft",
+    "area": "2255 ",
+    "status": "Under Construction",
+    "place": "Narsingi"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Shree GNR Vasavi Nirvana",
+    "builder": "Shree Vasavi Developers",
+    "price": 12000000,
+    "per_sqft": "6,899 / sq ft",
+    "area": "1745 ",
+    "status": "Under Construction",
+    "place": "Attapur"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Vajra The Royal Park",
+    "builder": "Vajra Builders And Developers",
+    "price": 6447000,
+    "per_sqft": "4,200 / sq ft",
+    "area": "1535 ",
+    "status": "Under Construction",
+    "place": "Bowrampet"
+  },
+  {
+    "title": "2  BHK  Apartment",
+    "projectname": "Sterling Grandeur",
+    "builder": "Sterling Homes PvtLtd",
+    "price": 6718000,
+    "per_sqft": "6,250 / sq ft",
+    "area": "1075 ",
+    "status": "Under Construction",
+    "place": "Bachupally"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Riddhi Pramukh Elegance",
+    "builder": "Riddhi Group",
+    "price": 8758000,
+    "per_sqft": "5,800 / sq ft",
+    "area": "1510 ",
+    "status": "Under Construction",
+    "place": "Jeedimetla"
+  },
+  {
+    "title": "4  BHK  Apartment",
+    "projectname": "Theme Imperial",
+    "builder": "Theme Ambience Infrastructures",
+    "price": 18000000,
+    "per_sqft": "6,800 / sq ft",
+    "area": "2655 ",
+    "status": "Under Construction",
+    "place": "Attapur"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Signature Altius",
+    "builder": "Signature Avenues",
+    "price": 12100000,
+    "per_sqft": "4,999 / sq ft",
+    "area": "2425 ",
+    "status": "Under Construction",
+    "place": "Kollur"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Risinia Skyon",
+    "builder": "Risinia Builders",
+    "price": 10300000,
+    "per_sqft": "5,599 / sq ft",
+    "area": "1843 ",
+    "status": "Under Construction",
+    "place": "Bachupally"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Vasavi Metropolis",
+    "builder": "Vasavi Group",
+    "price": 9718000,
+    "per_sqft": "5,700 / sq ft",
+    "area": "1705 ",
+    "status": "Under Construction",
+    "place": "Uppal Kalan"
+  },
+  {
+    "title": "3  BHK  Apartment",
+    "projectname": "Aavasa Constructions Emerald",
+    "builder": "Aavasa Constructions",
+    "price": 15200000,
+    "per_sqft": "6,500 / sq ft",
+    "area": "2345 ",
+    "status": "Under Construction",
+    "place": "Saroor Nagar"
+  }
+]
